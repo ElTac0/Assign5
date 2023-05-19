@@ -2,7 +2,7 @@ function new_function()
 {
         document.getElementById("text_id").style.fontSize="2em";
 }
-function old_function()
+function old_function(){
     if(document.getElementById("FancyShmancy_button").checked==true)
     {
         document.getElementById("text_id").style.fontWeight="bold";
