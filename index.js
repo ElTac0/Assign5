@@ -1,6 +1,8 @@
 function new_function()
 {
-    document.getElementById("text_id").style.fontSize="2em";
+        document.getElementById("text_id").style.fontSize="2em";
+}
+function newfunction2()
     if(document.getElementById("FancyShmancy_button").checked==true)
     {
         document.getElementById("text_id").style.fontWeight="bold";
